@@ -1,3 +1,8 @@
 sequence-tagging-ner
 Forked from yongyuwen/sequence-tagging-ner
 Keras Bi-LSTM-CRF for sequence tagging
+
+keras 2.2.2 required
+glove 300d required
+data required in same format 
+
